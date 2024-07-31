@@ -41,11 +41,3 @@ The results of the analysis include:
 ## Conclusion
 
 This project demonstrates how to preprocess data, train a machine learning model, and evaluate its performance. The Random Forest classifier provides a robust solution for predicting credit risk based on the given dataset.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me at [your_email@example.com].
